@@ -1,0 +1,9 @@
+.DS_Store
+Makefile
+gen_objs
+gen_mocs
+*.o
+*.xml
+raspberrypi_video
+raspberrypi_video.pro
+
